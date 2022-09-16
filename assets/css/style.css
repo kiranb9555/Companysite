@@ -875,7 +875,9 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.4;
   font-weight: 400;
 }
-
+h6.font-alt {
+   font-family: "Roboto Condensed", sans-serif;
+}
 p, ol, ul, blockquote {
   margin: 0 0 20px;
 }
@@ -888,7 +890,8 @@ blockquote {
 }
 
 .font-alt {
-  font-family: "Roboto Condensed", sans-serif;
+  font-family: 'Poppins', sans-serif;
+  /*font-family: "Roboto Condensed", sans-serif;*/
   text-transform: uppercase;
   letter-spacing: 2px;
 }
@@ -907,6 +910,7 @@ blockquote {
 }
 
 .module-title {
+  font-family: 'Poppins', sans-serif;
   position: relative;
   letter-spacing: 4px;
   text-align: center;
@@ -917,6 +921,7 @@ blockquote {
 }
 
 .module-subtitle {
+  font-family: "Roboto Condensed", sans-serif;
   text-align: center;
   font-size: 16px;
   color: #111;
@@ -1561,6 +1566,7 @@ Google map
 
 .features-title,
 .alt-features-title {
+  font-family: 'Poppins', sans-serif;
   text-transform: uppercase;
   letter-spacing: 2px;
   font-weight: 400;
@@ -2548,6 +2554,11 @@ Google map
   transform: translateY(50%);
 }
 
+span.font-alt{
+
+  font-family: "Roboto Condensed", sans-serif;
+}
+
 /* -------------------------------------------------------------------
 	Exclusive products
 ------------------------------------------------------------------- */
@@ -2930,4 +2941,22 @@ Google map
   .works-grid-5 .work-item {
     width: 100%;
   }
+}
+
+p {
+
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.panel-body{
+
+  font-family: "Roboto Condensed", sans-serif;
+}
+.alt-features-item{
+
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+form{
+  font-family: "Roboto Condensed", sans-serif;!important
 }
