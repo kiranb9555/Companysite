@@ -60,7 +60,7 @@ imp links add another page -user only access the login page and see casestudie a
 
  user link http://127.0.0.1:5500/titan-master/login_register.html
 
-Nakul--7613581287
+
 
 
 
