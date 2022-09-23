@@ -77,3 +77,27 @@ remove teams and other work in home
 http://127.0.0.1:5500/titan-master/faq.html for career including its form,terms and conditon ,all other pages will use this template
 
 addition
+
+-----------------------
+
+Address
+ Unit F, Winston Business Park
+Churchill Way #87540
+Sheffield
+ UK address for ayadu
+Zip code - S35 2PS
+-------------------------------
+Us
+2709 N Hayden Island Dr
+STE 346563
+Portland, Oregon, 97217, USA
+
+
+Company address for contact page
++1-503-568-1586
+
+Adress 2 
+
+444 Alaska Avenue,Suite #BMD335, Torrance, CA 90503, USA
+
+-------------------------------------------------------
